@@ -1,5 +1,6 @@
 # teaching_nlp
 
+* M2-CN-2021-22
 
 ## References
 * https://nlp-ensae.github.io/

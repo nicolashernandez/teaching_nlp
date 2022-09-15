@@ -1,5 +1,6 @@
 # teaching_nlp
 
+* M2-ATAL-2021-22
 
 ## References
 * https://nlp-ensae.github.io/

@@ -17,6 +17,17 @@ Chapitre 2 [Normalisation des textes](https://github.com/nicolashernandez/teachi
 * Taille du texte vs. taille de vocabulaire
 * Mots pleins (statistique et sens, loi de Zipf)
 
+Chapitre 3 [Représentation des textes à l'aide du vocabulaire ou des thèmes](https://github.com/nicolashernandez/teaching_nlp/blob/main/03_Repr%C3%A9sentation_des_textes_%C3%A0_l'aide_du_vocabulaire_ou_des_th%C3%A8mes_.ipynb)
+* Modèle "sac de mots" (bag of words)
+* Vectorisation avec occurrences
+* Vectorisation avec TF-IDF
+* Matrice creuse
+* Partitionnement sur la base d'une représentation bow des documents avec la méthode des k-moyennes
+* Similarité entre documents
+* Partitionnement hiérarchique des documents sur la base de la matrice de similarités inter-documents
+* Partitionnement des documents sur la base de la matrice de similarités inter-documents avec la méthode des k-moyennes
+* Topic modeling with LDA's gensim
+* Partitionnement des documents sur la base de la matrice document-topic avec la méthode des k-moyennes
 
 ## References
 * https://nlp-ensae.github.io/

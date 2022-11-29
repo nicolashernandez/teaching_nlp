@@ -56,4 +56,5 @@ Chapitre 5 [Classification de textes : tâches d'analyse de sentiment](https://g
 * https://github.com/dipanjanS/text-analytics-with-python
 * https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41
 * https://lena-voita.github.io/nlp_course.html
+* [Calcul de la rétropropagation | Apprentissage profond, chapitre 4](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 * French word embeddings models https://fauconnier.github.io/#data

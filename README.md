@@ -1,5 +1,8 @@
 # teaching_nlp
 
+The following content was used as pedagogical material for natural language processing assignments in the Master Info Parcours Apprentissage et Traitement Automatique des Langues 2022-2023
+
+
 Chapitre 1 [(Pré-)-Traitement Automatique des Langues](https://github.com/nicolashernandez/teaching_nlp/blob/main/01_Analyse_linguistique.ipynb)
 * NLP (python) Libraries
 * Analyses linguistiques du français
